@@ -1,0 +1,68 @@
+[
+    {
+        "core": "Pena de Fênix",
+        "material": "Azevinho",
+        "size": "28",
+        "flexibility": "FLEXIVEL"
+    },
+    {
+        "core": "Fibra do Coração de Dragão",
+        "material": "Nogueira",
+        "size": "30",
+        "flexibility": "INFLEXIVEL"
+    },
+    {
+        "core": "Fio da cauda de unicórnio",
+        "material": "Salgueiro",
+        "size": "35.5",
+        "flexibility": "NULL"
+    },
+    {
+        "core": "Pelo de unicórnio",
+        "material": "Pilriteiro",
+        "size": "25",
+        "flexibility": "SEMI-FLEXIVEL"
+    },
+    {
+        "core": "Pelo de unicórnio",
+        "material": "Cerejeira",
+        "size": "33.02",
+        "flexibility": "NULL"
+    },
+    {
+        "core": "Pelo da cauda de testrálio",
+        "material": "Videira",
+        "size": "30",
+        "flexibility": "SEMI-FLEXIVEL"
+    },
+    {
+        "core": "Fibra do Coração de Dragão",
+        "material": "Salgueiro",
+        "size": "25",
+        "flexibility": "FLEXIVEL"
+    },
+    {
+        "core": "Fibra do Coração de Dragão",
+        "material": "Nogueira",
+        "size": "29",
+        "flexibility": "SEMI-FLEXIVEL"
+    },
+    {
+        "core": "Pelo de unicórnio",
+        "material": "Azevinho",
+        "size": "31",
+        "flexibility": "FLEXIVEL"
+    },
+    {
+        "core": "Cabelo de Veela",
+        "material": "Ameixeira",
+        "size": "27.4",
+        "flexibility": "INFLEXIVEL"
+    },
+    {
+        "core": "Pelo da cauda de testrálio",
+        "material": "Ameixeira",
+        "size": "28",
+        "flexibility": "INFLEXIVEL"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "firstname": "Harry",
+        "lastname": "Potter",
+        "birthdate": "1980-07-31",
+        "patronus": "Cervo",
+        "houseid": null,
+        "wandid": null,
+        "id": 1
+    },
+    {
+        "firstname": "Hermione",
+        "lastname": "Granger",
+        "birthdate": "1979-09-19",
+        "patronus": "Lontra",
+        "houseid": null,
+        "wandid": null,
+        "id": 2
+    },
+    {
+        "firstname": "Rony",
+        "lastname": "Weasley",
+        "birthdate": "1980-03-01",
+        "patronus": "Cachorro",
+        "houseid": null,
+        "wandid": null,
+        "id": 3
+    },
+    {
+        "firstname": "Draco",
+        "lastname": "Malfoy",
+        "birthdate": "1980-06-05",
+        "patronus": null,
+        "houseid": null,
+        "wandid": null,
+        "id": 4
+    },
+    {
+        "firstname": "Neville",
+        "lastname": "Longbottom",
+        "birthdate": "1980-07-30",
+        "patronus": null,
+        "houseid": null,
+        "wandid": null,
+        "id": 5
+    },
+    {
+        "firstname": "Luna",
+        "lastname": "Lovegood",
+        "birthdate": "1981-02-13",
+        "patronus": "Lebre",
+        "houseid": null,
+        "wandid": null,
+        "id": 6
+    },
+    {
+        "firstname": "Gina",
+        "lastname": "Weasley",
+        "birthdate": "1981-08-11",
+        "patronus": "Cavalo",
+        "houseid": null,
+        "wandid": null,
+        "id": 7
+    },
+    {
+        "firstname": "Fred",
+        "lastname": "Weasley",
+        "birthdate": "1978-04-01",
+        "patronus": "Coiote",
+        "houseid": null,
+        "wandid": null,
+        "id": 8
+    },
+    {
+        "firstname": "Jorge",
+        "lastname": "Weasley",
+        "birthdate": "1978-04-01",
+        "patronus": "Macaco",
+        "houseid": null,
+        "wandid": null,
+        "id": 9
+    },
+    {
+        "firstname": "Cho",
+        "lastname": "Chang",
+        "birthdate": "1979-12-04",
+        "patronus": "Cisne",
+        "houseid": null,
+        "wandid": null,
+        "id": 10
+    },
+    {
+        "firstname": "Cedrico",
+        "lastname": "Diggory",
+        "birthdate": "1977-01-14",
+        "patronus": null,
+        "houseid": null,
+        "wandid": null,
+        "id": 11
+    }
+]
